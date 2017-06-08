@@ -1,0 +1,8 @@
+Type: IPython Notebook Extension
+Name: dsef-tab
+Description: Provides configuration tab for Jupyter on the main page
+Link: readme.md
+Icon: icon.png
+Main: main.js
+Section: tree
+Compatibility: 5.x

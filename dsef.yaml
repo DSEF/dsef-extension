@@ -1,7 +1,0 @@
-Type: IPython Notebook Extension
-Name: dsef
-Description: Jupyter Notebook Extension for DSEF
-Link: readme.md
-Icon: icon.png
-Main: dsef.js
-Compatibility: 5.x
